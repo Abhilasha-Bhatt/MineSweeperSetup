@@ -28,8 +28,8 @@ For example: ```a b ```
 
 ## Instructions to Run
 - **Clone/Download the repository:** Download the source code and place it in a directory.
-- **Install the setup:** Install the setup `ms.exe` .
-- **Run the game:** Run the compiled file `a.exe` .
+- **Install the setup:** Install the setup `MineSweeperSetup.exe` .
+- **Run the game:** Run the compiled file `minesweeper.exe` .
 
 ## Sample Output
 ```
