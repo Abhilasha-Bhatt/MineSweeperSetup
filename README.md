@@ -1,4 +1,5 @@
 # MineSweeperSetup
+
 # MineSweeper
 
 ## Overview
@@ -12,24 +13,9 @@ This is a terminal-based implementation of the classic Minesweeper game written 
 - **Victory condition:** The game is won by revealing all non-mine cells.
 - **Loss condition:** The game ends if you open a cell with a mine.
 
-## Rules
-- **Goal:** Uncover all non-mine cells without triggering a mine.
-- **Revealing:** Each cell you reveal may show a number indicating how many mines are adjacent. If a revealed cell is empty, neighboring cells are revealed automatically.
-- **Flags:** You can place up to 5 flags to mark suspected mine locations.
-- **Win condition:** You win by revealing all safe cells while leaving all mines either flagged or unopened.
-- **Loss condition:** The game ends if you reveal a mine.
-
-## How to Play
-- **Revealing a cell:** Enter the row and column (a-i).
-For example: ```a b ```
-- **Opening a cell:** Enter `O` to open a cell 
-- **Flagging/Unflagging a cell:** Enter the command `F` (for "Flag" or "Unflag").
-- **Quitting the game:** Enter `Q` when prompted to exit the game.
-
 ## Instructions to Run
-- **Clone/Download the repository:** Download the source code and place it in a directory.
-- **Install the setup:** Install the setup `MineSweeperSetup.exe` .
-- **Run the game:** Run the compiled file `minesweeper.exe` .
+- Download the setup from the link given below.
+- Run the `minesweeper.exe` file to play the game.
 
 ## Sample Output
 ```
@@ -107,19 +93,23 @@ Enter 'O' to open the cell and 'F' to flag or unflag the cell or 'Q' to quit:O
 ## Dependencies
 - A C compiler like GCC
 - Terminal or command-line interface
+  
+## Download Link
 
 ## Credits
-Created by [ABHILASHA]. This project is a simple implementation of Minesweeper for practice with C programming.
+Created by [![ABHILASHA](https://img.shields.io/badge/ABHILASHA-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
+. This project is a simple implementation of Minesweeper for practice with C programming.
+
+[![Kunal Upadhyay GitHub](https://img.shields.io/badge/Kunal_Upadhyay-GitHub-red?logo=github&style=for-the-badge)](https://github.com/Kunal-Upadhyay)                           [![Prateek Kumar GitHub](https://img.shields.io/badge/Prateek_Kumar-GitHub-red?logo=github&style=for-the-badge)](https://github.com/geeekdude)
 
 ## Contacts
 
-- Gmail: abhilashabhatt77@gmail.com
-- Github: [Click here](https://github.com/Abhilasha-Bhatt)
-- LinkedIn: [Click here](https://www.linkedin.com/in/abhilasha-bhatt3)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abhilashabhatt77@gmail.com)
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abhilasha-Bhatt)
+
 
 Feel free to modify or extend this game!
-
-
-
-
-
