@@ -14,7 +14,10 @@ This is a terminal-based implementation of the classic Minesweeper game written 
 - **Loss condition:** The game ends if you open a cell with a mine.
 
 ## Instructions to Run
-- Download the setup from the link given below.
+- Open the link given below in *Download link*.
+- Download the zip folder.
+- Extract all files from downloaded zip folder.
+- Install `mineSweeperSetup.exe`.
 - Run the `minesweeper.exe` file to play the game.
 
 ## Sample Output
