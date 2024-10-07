@@ -13,12 +13,19 @@ This is a terminal-based implementation of the classic Minesweeper game written 
 - **Victory condition:** The game is won by revealing all non-mine cells.
 - **Loss condition:** The game ends if you open a cell with a mine.
 
-## Instructions to Run
+## Instructions to Run for windows
 - Open the link given below in *Download link*.
 - Download the zip folder.
 - Extract all files from downloaded zip folder.
 - Install `mineSweeperSetup.exe`.
 - Run the `minesweeper.exe` file to play the game.
+  
+## Instructions to Run for linux
+- Open the link given below in *Download link*.
+- Download the zip folder.
+- Extract all files from downloaded zip folder.
+- Opem terminal and enter `gcc minesweeper.c -o minesweeper`
+- Now enter `/minesweeper`
 
 ## Sample Output
 ```
