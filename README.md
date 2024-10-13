@@ -123,7 +123,7 @@ Enter 'O' to open the cell and 'F' to flag or unflag the cell or 'Q' to quit:O
 - Terminal or command-line interface
   
 ## Download Link
-<a href="https://github.com/Abhilasha-Bhatt/MineSweeperSetup/releases/download/MineSweeper/minesweeper.exe" download="minesweeper.c">download</a>
+<a href="https://github.com/Abhilasha-Bhatt/MineSweeperSetup/releases/download/MineSweeper/minesweeper.exe" download="minesweeper.c">Download Here</a>
 ## Credits
 Created by [![ABHILASHA](https://img.shields.io/badge/ABHILASHA-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
 . This project is a simple implementation of Minesweeper for practice with C programming.
