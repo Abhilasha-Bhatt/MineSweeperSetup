@@ -124,6 +124,7 @@ Enter 'O' to open the cell and 'F' to flag or unflag the cell or 'Q' to quit:O
   
 ## Download Link
 [Click here](https://github.com/Abhilasha-Bhatt/MineSweeperSetup/releases/tag/MineSweeper/minesweeper.exe)
+<a href="https://github.com/Abhilasha-Bhatt/MineSweeperSetup/releases/tag/MineSweeper" download="minesweeper.c">Click here to download</a>
 ## Credits
 Created by [![ABHILASHA](https://img.shields.io/badge/ABHILASHA-Profile-blue?style=for-the-badge)](https://www.linkedin.com/in/abhilasha-bhatt3/)
 . This project is a simple implementation of Minesweeper for practice with C programming.
