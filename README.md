@@ -38,12 +38,28 @@ This is a terminal-based implementation of the classic Minesweeper game written 
 :                                                                         :
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+PRESS [1] TO KNOW RULES OF GAME
+PRESS [2] TO PLAY GAME
+PRESS [0] TO EXIT
+ENTER YOUR CHOICE:
+```
+```
                      ~~~RULES FOR GAME~~~
 -> Goal: Uncover all non-mine cells without hitting a mine.
 -> Revealing: Numbers show nearby mines; empty cells reveal neighbors.
 -> Flags: You have 5 flags to mark suspected mines.
 -> Win: Reveal all safe cells to win; hitting a mine ends the game.
 
+```
+```
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:                                                                         :
+: ___  ___ __ __  __  ____     __  __    __  ____  ____ ____   ____ ____  :
+: ||\\//|| || ||\ || ||       (( \ ||    || ||    ||    || \\ ||    || \\ :
+: || \/ || || ||\\|| ||==      \\  \\ /\ // ||==  ||==  ||_// ||==  ||_// :
+: ||    || || || \|| ||___    \_))  \V/\V/  ||___ ||___ ||    ||___ || \\ :
+:                                                                         :
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 FLAGS LEFT= 5
 
    | a | b | c | d | e | f | g | h | i |
